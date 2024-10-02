@@ -1,8 +1,12 @@
-<script setup>
+<script>
+
 </script>
 
 <template>
-  <page-title />
+  <div>
+    <page-title />
+    <page-about-me />
+  </div>
 </template>
 
 <style scoped>
