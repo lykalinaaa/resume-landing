@@ -6,6 +6,7 @@
   <div>
     <page-title />
     <page-about-me />
+    <page-skills />
   </div>
 </template>
 

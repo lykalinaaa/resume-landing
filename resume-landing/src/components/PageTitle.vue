@@ -76,4 +76,10 @@
   align-self: center;
 }
 
+.menu p:hover {
+  color: #ffffff;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
 </style>
